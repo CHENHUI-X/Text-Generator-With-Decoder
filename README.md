@@ -4,4 +4,4 @@ The corresponding blog can be found at xx.com
 
 - Reference
 
-![/building-a-language-model](https://wingedsheep.com/building-a-language-model/)
+[/building-a-language-model](https://wingedsheep.com/building-a-language-model/)
